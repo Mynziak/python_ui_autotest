@@ -33,6 +33,6 @@ Repository contains the project with automation of UI Tests by Python, Pytest, A
 2. Generate test-report: `allure serve allure-report/`
 
    # Useful links:
-1. [Appium-python documentation](https://github.com/appium/python-client)
-2. [Selene](https://github.com/yashaka/selene)
-3. [Pytest](https://docs.pytest.org/en/latest/)
+- [Appium-python documentation](https://github.com/appium/python-client)
+- [Selene](https://github.com/yashaka/selene)
+- [Pytest](https://docs.pytest.org/en/latest/)
