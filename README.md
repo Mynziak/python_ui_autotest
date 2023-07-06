@@ -1,4 +1,4 @@
-# UI tests automation for Web and mobile (Android, iOS) apps with a Python
+# E2E UI tests automation for Web and mobile (Android, iOS) apps with a Python + Pytest
 
 Repository contains the project with automation of UI Tests by Python, Pytest, Appium and Selenium WebDriver.
  - Implemented sample test for [web cam web app](https://webcammictest.com/): mockup the web camera, capture screenshot and compare the camera name
